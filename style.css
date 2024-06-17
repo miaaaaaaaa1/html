@@ -1,0 +1,28 @@
+body {
+    background-color: #F1E5D1;
+}
+
+.fruit-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.fruit-item {
+    background-color: #DBB5B5;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.number {
+    background-color: #C39898;
+    padding: 15px 20px;
+    color: #fff;
+}
+
+.fruit{
+    background-color: #987070;
+    padding: 15px 20px;
+    color: #fff;
+}
